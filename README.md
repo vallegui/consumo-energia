@@ -18,4 +18,4 @@ Ajudar usuários a entenderem melhor o consumo de energia e o custo estimado de 
 - 💻 Terminal / CLI
 - 🌐 GitHub
 
-## 🧮 Fórmula utilizada
+
